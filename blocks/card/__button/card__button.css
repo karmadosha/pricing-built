@@ -1,0 +1,13 @@
+.card__button {
+  width: 196px;
+  height: 40px;
+  border: 2px solid #FFF;
+  background-color: inherit;
+  margin: auto;
+  margin-bottom: 35px;
+  margin-right: 50px;
+  font-size: 14px;
+  color: #FFF;
+  font-weight: 500;
+  line-height: 16.4px;
+}

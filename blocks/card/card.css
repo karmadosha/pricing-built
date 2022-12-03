@@ -1,0 +1,15 @@
+.card {
+  min-width: 266px;
+  min-height: 601px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  padding-left: 35px;
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  color: #FFF;
+}

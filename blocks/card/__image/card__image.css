@@ -1,0 +1,6 @@
+.card__image {
+  max-width: 170px;
+  min-height: 139px;
+  align-self: center;
+  margin: 65px auto 15px 35px;
+}

@@ -1,0 +1,11 @@
+.card__price {
+  font-size: 67px;
+  font-weight: 700;
+  line-height: 78.5px;
+  position: relative;
+  padding: 0;
+  padding-left: 10px;
+  margin: 0;
+  margin-bottom: 8px;
+  
+}
