@@ -1,32 +1,32 @@
-@import url(/vendor/normalize.css);
-@import url(/vendor/fonts.css);
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts.css);
 
-@import url(/blocks/page/page.css);
-@import url(/blocks/header/header.css);
-@import url(/blocks/header/__title/header__title.css);
-@import url(/blocks/header/__text/header__text.css);
+@import url(./blocks/page/page.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__title/header__title.css);
+@import url(./blocks/header/__text/header__text.css);
 
-@import url(/blocks/content/content.css);
-@import url(/blocks/cards/cards.css);
-@import url(/blocks/card/card.css);
+@import url(./blocks/content/content.css);
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/card/card.css);
 
-@import url(/blocks/card/_type/card_type_personal.css);
-@import url(/blocks/card/_type/card_type_business.css);
-@import url(/blocks/card/_type/card_type_agency.css);
-@import url(/blocks/card/_type/card_type_develop.css);
-@import url(/blocks/card/__image/card__image.css);
+@import url(./blocks/card/_type/card_type_personal.css);
+@import url(./blocks/card/_type/card_type_business.css);
+@import url(./blocks/card/_type/card_type_agency.css);
+@import url(./blocks/card/_type/card_type_develop.css);
+@import url(./blocks/card/__image/card__image.css);
 
-@import url(/blocks/top/top.css);
-@import url(/blocks/top/__text/top__text.css);
-@import url(/blocks/top/__star/top__star.css);
+@import url(./blocks/top/top.css);
+@import url(./blocks/top/__text/top__text.css);
+@import url(./blocks/top/__star/top__star.css);
 
-@import url(/blocks/card/__title/card__title.css);
-@import url(/blocks/card/__descript/card__descript.css);
-@import url(/blocks/card/__price/card__price.css);
-@import url(/blocks/card/__baks-sign/card__baks-sign.css);
+@import url(./blocks/card/__title/card__title.css);
+@import url(./blocks/card/__descript/card__descript.css);
+@import url(./blocks/card/__price/card__price.css);
+@import url(./blocks/card/__baks-sign/card__baks-sign.css);
 
-@import url(/blocks/features/features.css);
-@import url(/blocks/features/__point/features__point.css);
+@import url(./blocks/features/features.css);
+@import url(./blocks/features/__point/features__point.css);
 
-@import url(/blocks/card/__button/card__button.css);
-@import url(/blocks/card/__button/card__button_active.css);
+@import url(./blocks/card/__button/card__button.css);
+@import url(./blocks/card/__button/card__button_active.css);
